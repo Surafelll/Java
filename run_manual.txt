@@ -1,0 +1,2 @@
+1.javac then [file name] is to compile the program.
+2.java then [file name] is to run the program.
